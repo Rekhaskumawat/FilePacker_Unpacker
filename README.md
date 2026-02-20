@@ -16,8 +16,20 @@ The system allows multiple files to be packed into a single file and later unpac
 - Pack multiple files into one file
 - Unpack packed file
 - GUI-based execution using Java Swing
+- Command-line execution
 - Object-Oriented Design
 - File handling using Java I/O
+
+---
+
+## ✅ Prerequisites
+
+Before running this project, make sure you have:
+
+- Java Development Kit (JDK 8 or above)
+- Command Prompt / Terminal
+- Basic knowledge of Java execution
+- Any IDE (Optional) – VS Code / IntelliJ / Eclipse
 
 ---
 
@@ -32,17 +44,18 @@ The system allows multiple files to be packed into a single file and later unpac
 
 ## 📂 Project Structure
 
-FILEPACKER_UNPACKER
+FILEPACKER_UNPACKER/
 |
-|----src
-|   |----FilePackingUnpacking
+|----src/
+|   |
+|   |----FilePackingUnpacking/
 |   |     |----PackingAcitvity.java
 |   |     |----UnpackingActivity.java
 |   |     
-|   |----GUI
+|   |----GUI/
 |   |     |----GUI.java
 |   |  
-|   |----CUI
+|   |----CUI/
 |   |     |----CUI.java
 |   |
 |----README.md
