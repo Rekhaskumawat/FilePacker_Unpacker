@@ -44,6 +44,8 @@ Before running this project, make sure you have:
 
 ## 📂 Project Structure
 
+```
+
 FILEPACKER_UNPACKER/
 │
 ├── src/
@@ -59,3 +61,4 @@ FILEPACKER_UNPACKER/
 |
 └── README.md
 
+```
