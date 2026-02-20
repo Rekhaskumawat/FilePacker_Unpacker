@@ -29,3 +29,21 @@ The system allows multiple files to be packed into a single file and later unpac
 - OOP Concepts
 
 ---
+
+## 📂 Project Structure
+
+FILEPACKER_UNPACKER
+|
+|----src
+|   |----FilePackingUnpacking
+|   |     |----PackingAcitvity.java
+|   |     |----UnpackingActivity.java
+|   |     
+|   |----GUI
+|   |     |----GUI.java
+|   |  
+|   |----CUI
+|   |     |----CUI.java
+|   |
+|----README.md
+
