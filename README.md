@@ -45,18 +45,17 @@ Before running this project, make sure you have:
 ## 📂 Project Structure
 
 FILEPACKER_UNPACKER/
+│
+├── src/
+│   ├── FilePackingUnpacking/
+│   │   ├── PackingActivity.java
+│   │   └── UnpackingActivity.java
+│   │
+│   ├── GUI/
+│   |    └── GUI.java
+|   |
+│   └── CUI/
+│       └── CUI.java
 |
-|----src/
-|   |
-|   |----FilePackingUnpacking/
-|   |     |----PackingAcitvity.java
-|   |     |----UnpackingActivity.java
-|   |     
-|   |----GUI/
-|   |     |----GUI.java
-|   |  
-|   |----CUI/
-|   |     |----CUI.java
-|   |
-|----README.md
+└── README.md
 
