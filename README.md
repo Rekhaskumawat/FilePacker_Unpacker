@@ -1,6 +1,7 @@
 # FilePacker_Unpacker
 
 ## 📌 Project Description
+
 This project implements File Packing and Unpacking functionality using Java.
 It provides both:
 
@@ -48,17 +49,17 @@ Before running this project, make sure you have:
 
 FILEPACKER_UNPACKER/
 │
-├── src/
-│   ├── FilePackingUnpacking/
-│   │   ├── PackingActivity.java
-│   │   └── UnpackingActivity.java
+|---- src/
+│   |---- FilePackingUnpacking/
+│   │   |---- PackingActivity.java
+│   │   |----UnpackingActivity.java
 │   │
-│   ├── GUI/
-│   |    └── GUI.java
+│   |---- GUI/
+│   |    |---- GUI.java
 |   |
-│   └── CUI/
-│       └── CUI.java
+│   |---- CUI/
+│       |---- CUI.java
 |
-└── README.md
+|---- README.md
 
 ```
